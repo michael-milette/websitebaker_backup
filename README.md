@@ -8,4 +8,5 @@ Please be patient. It can take several minutes for the tool to create your backu
 
 See the WebsiteBaker [Discussion Forum](http://www.websitebaker2.org/forum/index.php/topic,18902.msg128528.html#msg128528) for more information on system requirements and troubleshooting.
 
-
+Also see:
+https://addon.websitebaker.org/pages/en/browse-add-ons.php?id=0E598C2&lang=EN
